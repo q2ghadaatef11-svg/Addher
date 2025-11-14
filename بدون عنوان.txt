@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>أذكار الصباح والمساء</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    background-color: #fdf6e3;
+    color: #333;
+    padding: 20px;
+    direction: rtl;
+  }
+  h1, h2 {
+    text-align: center;
+    color: #006400;
+  }
+  .section {
+    margin-bottom: 30px;
+  }
+  .zikr {
+    margin-bottom: 15px;
+    background-color: #fffbe6;
+    padding: 15px;
+    border-right: 5px solid #006400;
+    border-radius: 5px;
+  }
+</style>
+</head>
+<body>
+
+<h1>أذكار الصباح والمساء</h1>
+
+<div class="section">
+  <h2>أذكار الصباح</h2>
+  <div class="zikr">
+    <p>آية الكرسي: (اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ...) [مرة واحدة]</p>
+  </div>
+  <div class="zikr">
+    <p>سورة الإخلاص ثلاث مرات: (قُلْ هُوَ اللَّهُ أَحَدٌ ...)</p>
+  </div>
+  <div class="zikr">
+    <p>سورة الفلق ثلاث مرات: (قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ...)</p>
+  </div>
+  <div class="zikr">
+    <p>سورة الناس ثلاث مرات: (قُلْ أَعُوذُ بِرَبِّ النَّاسِ ...)</p>
+  </div>
+  <div class="zikr">
+    <p>اللهمَّ إنِّي أعوذُ بك من الهمِّ والحزنِ ...</p>
+  </div>
+  <div class="zikr">
+    <p>بسمِ اللهِ الذي لا يَضرُ مع اسمِه شيءٌ في الأرضِ ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>يا حيُّ يا قيُّومُ، برَحمتِكَ أستَغيثُ ...</p>
+  </div>
+  <div class="zikr">
+    <p>سُبْحَانَ اللهِ وَبِحَمْدِهِ ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ عالِمَ الغَيبِ والشَّهادةِ ...</p>
+  </div>
+  <div class="zikr">
+    <p>اللهمَّ إني أسألُك العفوَ والعافيةَ ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>سيد الاستغفار: (اللَّهُمَّ أنْتَ رَبِّي لا إلَهَ إلَّا أنْتَ ...)</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ عافِني في بدَني ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ ... سبع مرات</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ بِكَ أصبَحنا ...</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ ما أصبحَ بي من نعمةٍ ...</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهُمَّ إنِّي أصبَحتُ أُشهِدُك ... أربع مرات</p>
+  </div>
+  <div class="zikr">
+    <p>أَصبَحْنا على فِطرةِ الإسلامِ ...</p>
+  </div>
+  <div class="zikr">
+    <p>أَصْبَحْنَا وَأَصْبَحَ المُلْكُ لِلَّهِ ...</p>
+  </div>
+  <div class="zikr">
+    <p>لا إلهَ إلَّا اللهُ وحدَه ... عشر مرات</p>
+  </div>
+  <div class="zikr">
+    <p>سبحانَ اللَّهِ وبحمدِهِ مئةَ مرَّة</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ إنِّي أسألُكَ عِلمًا نافعًا ...</p>
+  </div>
+  <div class="zikr">
+    <p>أستغفرُ اللهَ العظيمَ ...</p>
+  </div>
+  <div class="zikr">
+    <p>رضيتُ بالله رَبًّا ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>أستغفرُ الله وأتوبُ إليه مئة مرة</p>
+  </div>
+  <div class="zikr">
+    <p>اللّهُـمَّ إنِّي أَصبَحْت أُشْهِدُك ... أربع مرات</p>
+  </div>
+  <div class="zikr">
+    <p>اللهم صل وسلم وبارك على نبيّنا محمد عشر مرات</p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>أذكار المساء</h2>
+  <div class="zikr">
+    <p>آية الكرسي ...</p>
+  </div>
+  <div class="zikr">
+    <p>قراءة آخر آيتين من سورة البقرة ...</p>
+  </div>
+  <div class="zikr">
+    <p>سورة الإخلاص ثلاث مرات ...</p>
+  </div>
+  <div class="zikr">
+    <p>سورة الفلق ثلاث مرات ...</p>
+  </div>
+  <div class="zikr">
+    <p>سورة الناس ثلاث مرات ...</p>
+  </div>
+  <div class="zikr">
+    <p>اللهمَّ إنِّي أعوذُ بك من الهمِّ والحزنِ ...</p>
+  </div>
+  <div class="zikr">
+    <p>بسمِ اللهِ الذي لا يَضرُ مع اسمِه شيءٌ ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>يا حيُّ يا قيُّومُ ...</p>
+  </div>
+  <div class="zikr">
+    <p>سُبْحَانَ اللهِ وَبِحَمْدِهِ ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ عالِمَ الغَيبِ والشَّهادةِ ...</p>
+  </div>
+  <div class="zikr">
+    <p>اللهمَّ إني أسألُك العفوَ والعافيةَ ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>سيد الاستغفار ...</p>
+  </div>
+  <div class="zikr">
+    <p>حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ ... سبع مرات</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ بِكَ أمسَينا ...</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ ما أمسى بي من نعمةٍ ...</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهُمَّ إنِّي أمسيتُ أُشهِدُك ... أربع مرات</p>
+  </div>
+  <div class="zikr">
+    <p>أمسينا على فِطرةِ الإسلامِ ...</p>
+  </div>
+  <div class="zikr">
+    <p>أمسينا وأمسى المُلْكُ للهِ ...</p>
+  </div>
+  <div class="zikr">
+    <p>لا إلهَ إلَّا اللهُ وحدَه ... عشر مرات</p>
+  </div>
+  <div class="zikr">
+    <p>سبحانَ اللَّهِ وبحمدِهِ مئةَ مرَّة</p>
+  </div>
+  <div class="zikr">
+    <p>اللَّهمَّ إنِّي أسألُكَ عِلمًا نافعًا ...</p>
+  </div>
+  <div class="zikr">
+    <p>أستغفرُ اللهَ العظيمَ ...</p>
+  </div>
+  <div class="zikr">
+    <p>رضيتُ بالله رَبًّا ... ثلاث مرات</p>
+  </div>
+  <div class="zikr">
+    <p>أستغفرُ الله وأتوبُ إليه مئة مرة</p>
+  </div>
+  <div class="zikr">
+    <p>اللّهُـمَّ إنِّي أمسيت أُشْهِدُك ... أربع مرات</p>
+  </div>
+  <div class="zikr">
+    <p>اللهم صل وسلم وبارك على نبيّنا محمد عشر مرات</p>
+  </div>
+</div>
+
+</body>
+</html>
